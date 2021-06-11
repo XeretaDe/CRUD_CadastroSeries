@@ -1,0 +1,16 @@
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\bin\Debug\net5.0\CRUD_CadastroSeries.exe
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\bin\Debug\net5.0\CRUD_CadastroSeries.deps.json
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\bin\Debug\net5.0\CRUD_CadastroSeries.runtimeconfig.json
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\bin\Debug\net5.0\CRUD_CadastroSeries.runtimeconfig.dev.json
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\bin\Debug\net5.0\CRUD_CadastroSeries.dll
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\bin\Debug\net5.0\ref\CRUD_CadastroSeries.dll
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\bin\Debug\net5.0\CRUD_CadastroSeries.pdb
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\obj\Debug\net5.0\CRUD_CadastroSeries.csprojAssemblyReference.cache
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\obj\Debug\net5.0\CRUD_CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\obj\Debug\net5.0\CRUD_CadastroSeries.AssemblyInfoInputs.cache
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\obj\Debug\net5.0\CRUD_CadastroSeries.AssemblyInfo.cs
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\obj\Debug\net5.0\CRUD_CadastroSeries.csproj.CoreCompileInputs.cache
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\obj\Debug\net5.0\CRUD_CadastroSeries.dll
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\obj\Debug\net5.0\ref\CRUD_CadastroSeries.dll
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\obj\Debug\net5.0\CRUD_CadastroSeries.pdb
+R:\Escola virtual\Digital Inovation\CRUD\CRUD_CadastroSeries\obj\Debug\net5.0\CRUD_CadastroSeries.genruntimeconfig.cache
